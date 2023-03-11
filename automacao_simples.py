@@ -3,7 +3,7 @@ import pandas as pd
 # Ler o arquivo CSV
 df = pd.read_csv('dados.csv')
 
-# Exibir as primeiras 5 linhas
+# Exibir as primeiras 5 linhas dos
 print(df.head())
 
 # Calcular o preço médio
